@@ -1,4 +1,4 @@
-# robots.txt para Lucas Caobianco - Primeira Venda em Tempo Record
+# robots.txt para Primeira Venda em Tempo Record
 
 User-agent: *
 Allow: /
@@ -16,5 +16,5 @@ Disallow: /package.json
 Disallow: /package-lock.json
 
 # Sitemap
-Sitemap: https://www.lucascaobianco.com.br/sitemap.xml
+Sitemap: https://www.primeira-venda.com.br/sitemap.xml
 
